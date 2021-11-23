@@ -1,1 +1,7 @@
+<<<<<<< HEAD
 Ceci est un nouveau fichier 
+=======
+Cceci est un bout de text
+
+V1
+>>>>>>> f2fa57039cc39a5e8716d8e24da76b2f1d7b98ad
