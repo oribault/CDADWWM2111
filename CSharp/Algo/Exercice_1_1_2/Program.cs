@@ -22,7 +22,7 @@ namespace Exercice_1._1._2
                 nb2 = int.Parse(Console.ReadLine());
 
                 result = (nb1 + nb2) / 2;
-                Console.Write($"The average of the two number is {result}");
+                Console.WriteLine($"The average of the two number is {result}");
                 Console.WriteLine("Souhaitez-vous faire un nouveau calcul ? ");
                 answerForRedo = Console.ReadLine();
                 if (answerForRedo == "O")
