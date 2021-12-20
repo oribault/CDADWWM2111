@@ -14,6 +14,10 @@ namespace Exercice1_2
 
             volume = 4 / 3 * Math.PI * r * r * r;
 
+            Console.WriteLine("La valeur de l'aire est de " + aire);
+            Console.WriteLine("La valeur du volume est de " + volume);
+
+
         }
     }
 }
