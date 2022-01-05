@@ -1,16 +1,12 @@
 ﻿using System;
 
-namespace Exercice1_1_2
+namespace Point
 {
     class Program
     {
         static void Main(string[] args)
         {
-            do
-            {
-
-            }
-            while
+            Console.WriteLine("Hello World!");
         }
     }
 }
