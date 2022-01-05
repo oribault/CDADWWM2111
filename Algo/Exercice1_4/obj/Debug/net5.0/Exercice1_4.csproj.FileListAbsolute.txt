@@ -1,0 +1,15 @@
+C:\Users\Oceane\Documents\Algo\Exercice1_4\obj\Debug\net5.0\Exercice1_4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Oceane\Documents\Algo\Exercice1_4\obj\Debug\net5.0\Exercice1_4.AssemblyInfoInputs.cache
+C:\Users\Oceane\Documents\Algo\Exercice1_4\obj\Debug\net5.0\Exercice1_4.AssemblyInfo.cs
+C:\Users\Oceane\Documents\Algo\Exercice1_4\obj\Debug\net5.0\Exercice1_4.csproj.CoreCompileInputs.cache
+C:\Users\Oceane\Documents\Algo\Exercice1_4\bin\Debug\net5.0\Exercice1_4.exe
+C:\Users\Oceane\Documents\Algo\Exercice1_4\bin\Debug\net5.0\Exercice1_4.deps.json
+C:\Users\Oceane\Documents\Algo\Exercice1_4\bin\Debug\net5.0\Exercice1_4.runtimeconfig.json
+C:\Users\Oceane\Documents\Algo\Exercice1_4\bin\Debug\net5.0\Exercice1_4.runtimeconfig.dev.json
+C:\Users\Oceane\Documents\Algo\Exercice1_4\bin\Debug\net5.0\Exercice1_4.dll
+C:\Users\Oceane\Documents\Algo\Exercice1_4\bin\Debug\net5.0\ref\Exercice1_4.dll
+C:\Users\Oceane\Documents\Algo\Exercice1_4\bin\Debug\net5.0\Exercice1_4.pdb
+C:\Users\Oceane\Documents\Algo\Exercice1_4\obj\Debug\net5.0\Exercice1_4.dll
+C:\Users\Oceane\Documents\Algo\Exercice1_4\obj\Debug\net5.0\ref\Exercice1_4.dll
+C:\Users\Oceane\Documents\Algo\Exercice1_4\obj\Debug\net5.0\Exercice1_4.pdb
+C:\Users\Oceane\Documents\Algo\Exercice1_4\obj\Debug\net5.0\Exercice1_4.genruntimeconfig.cache
