@@ -11,6 +11,11 @@ namespace Trousse
 
         private int _volume;
         private bool _estOuverte;
+        private string _matiere;
+        private string _color;
+        private string _marque;
+
+        //Constructeur 
         public Trousse(int volume, bool estOuverte)
         {
             Volume = volume;
@@ -27,6 +32,19 @@ namespace Trousse
             private set { _estOuverte = value; }
         }
 
+        public bool Ouvrir()
+        {
+           if(this.EstOuverte)
+           {
+               EstOuverte = false;
+           }
+
+        } 
+
+
+
+
+        //Constructeur
         public Trousse()
         {
             Volume = 0;
