@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
@@ -23,3 +24,30 @@ Global
 		SolutionGuid = {5AEA3C19-3856-445A-8053-A48F352998C7}
 	EndGlobalSection
 EndGlobal
+=======
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31911.196
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SujetExamen", "SujetExamen\SujetExamen.csproj", "{D2E73971-0180-4FAC-A0A7-348E31120FE3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D2E73971-0180-4FAC-A0A7-348E31120FE3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D2E73971-0180-4FAC-A0A7-348E31120FE3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D2E73971-0180-4FAC-A0A7-348E31120FE3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D2E73971-0180-4FAC-A0A7-348E31120FE3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5AEA3C19-3856-445A-8053-A48F352998C7}
+	EndGlobalSection
+EndGlobal
+>>>>>>> 6cdba5fa497486a9755b9a9ab4683eff0195a055

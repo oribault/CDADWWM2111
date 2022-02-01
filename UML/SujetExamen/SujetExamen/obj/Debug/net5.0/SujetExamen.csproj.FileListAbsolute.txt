@@ -1,0 +1,16 @@
+C:\Users\Stagiaire\Documents\CDADWWM2111\UML\SujetExamen\SujetExamen\obj\Debug\net5.0\SujetExamen.csproj.AssemblyReference.cache
+C:\Users\Stagiaire\Documents\CDADWWM2111\UML\SujetExamen\SujetExamen\obj\Debug\net5.0\SujetExamen.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Stagiaire\Documents\CDADWWM2111\UML\SujetExamen\SujetExamen\obj\Debug\net5.0\SujetExamen.AssemblyInfoInputs.cache
+C:\Users\Stagiaire\Documents\CDADWWM2111\UML\SujetExamen\SujetExamen\obj\Debug\net5.0\SujetExamen.AssemblyInfo.cs
+C:\Users\Stagiaire\Documents\CDADWWM2111\UML\SujetExamen\SujetExamen\obj\Debug\net5.0\SujetExamen.csproj.CoreCompileInputs.cache
+C:\Users\Stagiaire\Documents\CDADWWM2111\UML\SujetExamen\SujetExamen\bin\Debug\net5.0\SujetExamen.exe
+C:\Users\Stagiaire\Documents\CDADWWM2111\UML\SujetExamen\SujetExamen\bin\Debug\net5.0\SujetExamen.deps.json
+C:\Users\Stagiaire\Documents\CDADWWM2111\UML\SujetExamen\SujetExamen\bin\Debug\net5.0\SujetExamen.runtimeconfig.json
+C:\Users\Stagiaire\Documents\CDADWWM2111\UML\SujetExamen\SujetExamen\bin\Debug\net5.0\SujetExamen.runtimeconfig.dev.json
+C:\Users\Stagiaire\Documents\CDADWWM2111\UML\SujetExamen\SujetExamen\bin\Debug\net5.0\SujetExamen.dll
+C:\Users\Stagiaire\Documents\CDADWWM2111\UML\SujetExamen\SujetExamen\bin\Debug\net5.0\ref\SujetExamen.dll
+C:\Users\Stagiaire\Documents\CDADWWM2111\UML\SujetExamen\SujetExamen\bin\Debug\net5.0\SujetExamen.pdb
+C:\Users\Stagiaire\Documents\CDADWWM2111\UML\SujetExamen\SujetExamen\obj\Debug\net5.0\SujetExamen.dll
+C:\Users\Stagiaire\Documents\CDADWWM2111\UML\SujetExamen\SujetExamen\obj\Debug\net5.0\ref\SujetExamen.dll
+C:\Users\Stagiaire\Documents\CDADWWM2111\UML\SujetExamen\SujetExamen\obj\Debug\net5.0\SujetExamen.pdb
+C:\Users\Stagiaire\Documents\CDADWWM2111\UML\SujetExamen\SujetExamen\obj\Debug\net5.0\SujetExamen.genruntimeconfig.cache
